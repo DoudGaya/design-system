@@ -7,6 +7,7 @@ export default defineNuxtComponent({
   }),
 
 
+
   computed: {
     photoGalleryLenght () {
       return this.photos.length
